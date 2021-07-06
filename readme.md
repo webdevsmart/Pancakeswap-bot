@@ -25,9 +25,13 @@ I built a professional sniping/trading bot for pancake and uniswap using their l
 
 **Test result:** 
 <br/>
-***Liquidity added:*** https://bscscan.com/tx/0xc08df910e85ad1ce787b2baa822cdd26acd88463292f04747f006341099b04e6
+***Liquidity added:*** 
 <br/>
-***Buy tx:*** https://bscscan.com/tx/0x2e34363095dff8dc6116822bcbf67ee5c84bc80fae63a854ae9fcc41ddc575d7
+https://bscscan.com/tx/0xc08df910e85ad1ce787b2baa822cdd26acd88463292f04747f006341099b04e6
+<br/>
+***Buy tx:*** 
+<br/>
+https://bscscan.com/tx/0x2e34363095dff8dc6116822bcbf67ee5c84bc80fae63a854ae9fcc41ddc575d7
 
 **HOW TO RUN**
 1) clone pancake or uniswap bot after contact me
