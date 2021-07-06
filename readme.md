@@ -1,4 +1,4 @@
-#Pancke Sniper/Trading bot
+# Pancake Sniper/Trading bot
 
 **Hey everyone,**
 
