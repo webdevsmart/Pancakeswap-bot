@@ -17,9 +17,8 @@ I built a professional sniping/trading bot for pancake and uniswap using their l
 + [x] Buy/Sell Amount input(amount, percentage)
 + [x] Take profit/Stop loss
 + [x] Show wallet balance, token balance, price, buy price, sell price, profit, loss in real time
-
-**Working on:**
-+ [ ] Multiple Wallet connection.
++ [x] Presale/dxsale
++ [X] Multiple Wallet connection
 
 ![GitHub Logo](/images/ui.png)
 
