@@ -20,7 +20,7 @@ I built a professional sniping/trading bot for pancake and uniswap using their l
 + [x] Presale/dxsale
 + [X] Multiple Wallet connection
 
-![GitHub Logo](/images/ui.png)
+![GitHub Logo](/ui.png)
 
 **Test result:** 
 <br/>
