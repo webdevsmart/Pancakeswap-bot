@@ -45,4 +45,4 @@ email: enjoydhoney@gmail.com
 <br/>
 discord: honeydev#5361
 <br/>
-telegram: @honeydev
+telegram: @honeydeve
