@@ -39,10 +39,10 @@ https://bscscan.com/tx/0x2e34363095dff8dc6116822bcbf67ee5c84bc80fae63a854ae9fcc4
 **WARNING**
 Please contact me (Not Free but Not Expensive)
 <br/>
-skype id: live:.cid.5ab898b976e7bc2
+skype id: live:zpedia723
 <br/>
-email: enjoydhoney@gmail.com
+email: webdevsmart21@gmail.com
 <br/>
-discord: honeydev#5361
+discord: enjoydev#5361
 <br/>
 telegram: @honeydeve
