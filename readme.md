@@ -43,6 +43,4 @@ skype id: live:webdevsmart
 <br/>
 email: webdevsmart21@gmail.com
 <br/>
-discord: enjoydev#5361
-<br/>
 telegram: @WebDevGuru
